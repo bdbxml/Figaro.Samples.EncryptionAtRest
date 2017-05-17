@@ -90,7 +90,6 @@
     <None Include="FigaroConfigSchema.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Help\Figaro.chm" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
